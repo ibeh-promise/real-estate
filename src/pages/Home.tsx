@@ -8,15 +8,15 @@ export default function Home() {
       <Header />
 
       {/* Hero Section */}
-      <div className="rounded-[50px] md:m-20 lg:m-5">
+      <div className="rounded-[20px] md:m-20 lg:m-5">
         <div
-          className="hero h-[500px] rounded-[30px] bg-white"
+          className="hero h-[500px] rounded-[20px] bg-white"
           style={{
             backgroundImage:
               "url(/digital-marketing-agency-ntwrk-g39p1kDjvSY-unsplash.jpg)",
           }}
         >
-          <div className="hero-overlay rounded-[30px]" />
+          <div className="hero-overlay rounded-[20px]" />
           <div className="hero-content text-neutral-content text-center flex flex-col items-center justify-center w-full h-full">
             <div className="max-w-md">
               <h1 className="mb-5 text-5xl font-bold">
