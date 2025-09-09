@@ -1,6 +1,6 @@
 export default function Footer() {
     return (
-        <footer className="footer sm:footer-horizontal bg-base-200 text-base-content p-10 w-[100vw] ml-[-30px]">
+        <footer className="footer sm:footer-horizontal bg-base-200 text-base-content p-10 w-[100vw] lg:ml-[-30px]">
             <div className="">
                 <h1>Real Estate Ltd. </h1>
                 <p>
